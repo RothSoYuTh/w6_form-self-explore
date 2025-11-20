@@ -1,0 +1,21 @@
+   body{
+            width: 100vw;
+            height: 100vh;
+            background-color: antiquewhite;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .container{
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        form{
+            
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
